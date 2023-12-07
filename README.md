@@ -8,5 +8,5 @@ CSS inspired by: [khalfaoui hassani](https://codepen.io/soufiane-khalfaoui-hassa
 
 
 ## Converting simple ideas into reality. <br>
-This site is hosted on Pythonanywhere, Thursday 07 March 2024.
+This site is hosted on Pythonanywhere, till Thursday 07 March 2024.
 # Have a look - [ Hex - Encoder ](http://ft10101.pythonanywhere.com/) 
