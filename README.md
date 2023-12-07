@@ -6,6 +6,6 @@ prints out the encrypted characters back to the user. The encryption is done usi
 Completed it with just a few web searches and a few hours with GPT-3.5.<br>
 CSS inspired by: [khalfaoui hassani](https://codepen.io/soufiane-khalfaoui-hassani/pen/LYpPWda)
 
-Converting simple ideas into reality.
+### Converting simple ideas into reality. <br>
 This site will be disabled on Thursday 07 March 2024 by Pythonanywhere as it's using a demo plan.
-# Have a look -> [Hex-Encoder](http://ft10101.pythonanywhere.com/) 
+## Have a look -> [Hex-Encoder](http://ft10101.pythonanywhere.com/) 
